@@ -1,26 +1,26 @@
 1. Клонирование репозитория
 
-   '''git clone https://github.com/vitos_63/habr_test_task_junior'''
+   ```git clone https://github.com/vitos_63/habr_test_task_junior```
 
 3. Создание виртуального окружения
 
-   '''python -m venv venv'''
+   ```python -m venv venv```
 
 5. Активация виртуального окружения
 
-   '''venv/Scripts/activate'''
+   ```venv/Scripts/activate```
 
 7. Установка зависимостей
 
-   '''pip install -r requirements.txt'''
+   ```pip install -r requirements.txt```
 
 9. Переход в директорию с файлом manage.py
    
-   '''cd animal'''
+   ```cd animal```
 
 11. Запуск проекта
 
-   '''python manage.py runserver'''
+   ```python manage.py runserver```
 
 Пример работы API:
 1. GET-запрос на URL /tests
