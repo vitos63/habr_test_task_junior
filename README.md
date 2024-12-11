@@ -14,7 +14,11 @@
 
    ```pip install -r requirements.txt```
 
-5. Запуск проекта
+5. Переход в директорию с файлом manage.py
+
+   ```cd animal```
+   
+6. Запуск проекта
 
    ```python manage.py runserver```
 
