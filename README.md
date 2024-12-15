@@ -1,6 +1,6 @@
 1. Клонирование репозитория
 
-   ```git clone https://github.com/vitos_63/habr_test_task_junior```
+   ```git clone https://github.com/vitos63/habr_test_task_junior.git```
 
 2. Создание виртуального окружения
 
